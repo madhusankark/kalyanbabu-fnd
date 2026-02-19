@@ -64,7 +64,7 @@ function AnimatedRoutes() {
             {/* 4. Political Journey Section */}
             <div id="politics">
               <Journey 
-                image="https://pbs.twimg.com/media/Gz0mgsXacAAWaiF?format=jpg&name=large" 
+                image="https://i.pinimg.com/736x/4a/5e/17/4a5e177fdd7633e4951d17cbdb2237f3.jpg" 
                 title="The Political Force" 
                 reverse={true}
                 content="Pawan Kalyan founded the Jana Sena Party in 2014 with a vision of transparent governance and people-centric leadership. After years of strengthening the party at the grassroots level, the 2024 elections marked a major milestone. He contested from Pithapuram and secured a historic victory. Currently, as the Deputy Chief Minister of Andhra Pradesh, he is working toward his promise of change, moving from a star of the silver screen to a pivotal leader dedicated to the constitution and the welfare of the people."
